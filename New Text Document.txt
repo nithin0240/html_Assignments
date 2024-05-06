@@ -1,9 +1,0 @@
-<html>
-<head>
-</head>
-<body>
-<h1> About My Puppy </h1>
-<img src="meme.jpg">
-<img sr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rollingstone.com%2Fculture%2Fculture-news%2Fpepe-the-frog-meme-feels-so-good-documentary-1029081%2F&psig=AOvVaw3UHeJ7VHAhWafkZCC1fTFg&ust=1713417897479000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjspZzByIUDFQAAAAAdAAAAABAJ">
-</body>
-</html>
